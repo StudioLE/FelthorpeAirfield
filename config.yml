@@ -1,0 +1,14 @@
+title: Felthorpe Airfield
+baseURL: https://felthorpe.org
+disableKinds: ["home", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
+uglyURLs: false
+SectionPagesMenu: main
+params:
+  FooterLeft: "### Location
+
+Felthorpe Airfield, Taverham Road <br>
+
+Felthorpe NR10 4DR"
+  FooterRight: "### Open Hours
+
+The club meets on Wednesdays and Sundays but aircraft are welcome at all times, just [contact us](/contact/) for PPR."
